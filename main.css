@@ -1,0 +1,43 @@
+.wrapper{
+    margin: 5px;
+}
+
+/* 3 */
+
+h1{
+    text-align: left;
+}
+
+/*this sets the background color of the entire body*/
+body{
+    background-color: rgb(81, 226, 105);
+}
+
+/* 4 */
+.background1{
+    background-color: lightblue;
+}
+
+/* 5 */
+.background2{
+    background-image:url("../3-assets/upfeathers.png"); 
+}
+
+/* 7 */
+table, th, td{
+    border: 1px solid black;
+}
+/* for testing */
+/*body {background-color: blue;
+}*/
+
+/* rule-set #1 */
+#number-one{
+    color: red;
+}
+/* 8 */
+.padding-class{
+    border:2px solid red;
+    margin: 50px 50px 50px 50px;
+    padding: 20px 20px 20px 40px
+}
